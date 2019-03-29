@@ -1,0 +1,11 @@
+﻿- Điều kiện lồng là : Là các câu lệnh điều kiện được đặt liên tiếp nhau 
+
+- VD :
+x = int(input('Nhap x :'))
+if x > 0 :
+    print('So duong')
+else :
+    if x < 0 :
+        print('So am')
+    else :
+        print('x = 0')

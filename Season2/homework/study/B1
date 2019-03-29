@@ -1,0 +1,12 @@
+Boolean là một kiểu dữ liệu trong Python.
+Kiểu dữ liệu này chỉ có hai giá trị:
+    Một là True – có nghĩa là đúng
+    Nếu không thì là False – có nghĩa là sai.
+- 5 > 6 
+>> False
+- 'Hao' == 'hao'
+>> False
+- list = [1, 2, 3]
+list1 = [1, 2, 3]
+list == list1
+>> True

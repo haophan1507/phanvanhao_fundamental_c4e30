@@ -1,0 +1,4 @@
+- Biểu đồ dòng chảy là biểu đồ dòng chảy là biểu diễn đồ họa hoặc biểu tượng của một quá trình. 
+Mỗi bước trong quy trình được thể hiện bằng một biểu tượng khác nhau và chứa một mô tả ngắn về bước 
+quy trình. Các ký hiệu biểu đồ luồng được liên kết với nhau bằng các mũi tên hiển thị hướng dòng quy 
+trình.
