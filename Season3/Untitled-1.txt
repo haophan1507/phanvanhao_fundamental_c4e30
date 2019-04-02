@@ -1,0 +1,9 @@
+- While
+- Break
+- List
+- CRUD - Create, read, update, delete
+- Create : Append, Insert, Extand
+- Read : 
+- Update : 
+- Delete : a.pop(1) - del a[1] - a.remove(gia tri)
+- Functions :

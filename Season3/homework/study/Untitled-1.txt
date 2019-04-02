@@ -1,0 +1,2 @@
+- List lồng là một list chứa một hoặc nhiều list khác nhau.
+- Một list có thể lưu trữ cả int và str trong đó.
