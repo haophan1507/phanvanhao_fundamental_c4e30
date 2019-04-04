@@ -1,0 +1,5 @@
+- Dictionnary
+- CRUD
+- Read  : get
+- Deleta : del, pop
+- Loop in dict 
