@@ -1,0 +1,8 @@
++ Định nghĩa website. WEBSITE (Tạm dịch là "Trang mạng"), còn gọi là trang web, là một tập hợp các trang web con, bao gồm văn bản, hình ảnh, video, flash v.v..
++ Web là cách dễ và nhanh để đưa ứng dụng đến người dùng: phần mềm kế toán, web kế toán
++ Có nhiều ngôn ngữ có thể làm web: php, c#, java, javascript, python
++ Cơ bản các ngôn ngữ lập trình web sẽ tạo ra html - Ngôn ngữ đánh dấu siêu văn bản
+HTML không phải là ngôn ngữ lập trình
+
+- Phần html chỉ hiển thị thông tin chứ ko chịu trách nhiệm sinh ra bài thơ
+- Quá trình tổng hợp và xử lý dữ liệu sẽ xử lý ở app.py - ngôn ngữ python
